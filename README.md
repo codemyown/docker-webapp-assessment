@@ -84,7 +84,7 @@ Replace 5001 with any free port.
 
 ## Author
 - Developed by Ajay Pawar
-- GitHub: [https://github.com/codemyown/docker-webapp-assessment]
+- GitHub: https://github.com/codemyown/docker-webapp-assessment
 
 ---
 **Enjoy your containerized applications! 🚀**
